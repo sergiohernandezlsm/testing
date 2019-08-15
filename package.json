@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sergiohernandezlsm/testing#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
     "nodemon": "^1.19.1"
   }
 }
